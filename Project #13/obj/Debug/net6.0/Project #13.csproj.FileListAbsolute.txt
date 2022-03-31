@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.AssemblyInfo.cs
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\Project #13.exe
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\Project #13.deps.json
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\Project #13.runtimeconfig.json
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\Project #13.dll
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\ref\Project #13.dll
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\bin\Debug\net6.0\Project #13.pdb
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.dll
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\ref\Project #13.dll
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.pdb
+C:\Users\aznee\Documents\Coding\Brightchamps\Project #13\obj\Debug\net6.0\Project #13.genruntimeconfig.cache
